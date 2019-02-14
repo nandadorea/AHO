@@ -16,11 +16,11 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="https://w3id.org/aho">
-        <terms:contributor>Karl Hammar, Patrick Lambrix, Noel Kennedy, Victor Oliveira</terms:contributor>
-        <terms:creator>Fernanda Dórea (nanda@datadrivensurveillance.org), Crawford Revie, Ann Lindberg, Eva Blomqvist</terms:creator>
         <terms:description xml:lang="en">An ontology to support semantic interoperability among domains involved in animal health health surveillance (clinical data, laboratory data, animal movement data, etc). More details at http://datadrivensurveillance.org.</terms:description>
         <owl:versionInfo>0.1.0</owl:versionInfo>
+        <terms:creator>Fernanda Dórea (nanda@datadrivensurveillance.org)</terms:creator>
         <terms:title>Animal Health Ontology (AHO)</terms:title>
+        <terms:contributor>Karl Hammar, Patrick Lambrix, Noel Kennedy, Victor Oliveira, Crawford Revie, Ann Lindberg, Eva Blomqvist</terms:contributor>
         <rdfs:comment xml:lang="en">This is an ontology to support data (re) use in animal health. Focus is given on steh structure of teh animal population, and teh structure of health observations about these animals, such as clinical observations, laboratory tests, etc.</rdfs:comment>
     </owl:Ontology>
     
