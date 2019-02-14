@@ -1,6 +1,6 @@
 # Animal Health Ontology (AHO)
 
-AHO aims to support data interoperability in animal health - it focused on modeling the structure of the animal population and the health data recorded about animals, such as clincial observations, laboratory tests, animal movement registries, etc, 
+AHO aims to support data interoperability in animal health - it focuses on modeling the structure of the animal population and the health data recorded about animals, such as clincial observations, laboratory tests, animal movement registries, etc, 
 
 “An ontology defines a common vocabulary for researchers who need to share information in a domain. It includes machine-interpretable definitions of basic concepts in the domain and relations among them”. [(Noy & Mcguiness, 2001)](http://protege.stanford.edu/publications/ontology\_development/ontology101.pdf)
 
